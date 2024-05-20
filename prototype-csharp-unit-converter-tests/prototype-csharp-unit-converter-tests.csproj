@@ -21,4 +21,8 @@
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\prototype-csharp-unit-converter-domain\prototype-csharp-unit-converter-domain.csproj" />
+  </ItemGroup>
+
 </Project>
